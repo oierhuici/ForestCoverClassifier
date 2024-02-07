@@ -1,2 +1,0 @@
-../Escritorio/master/1[[:space:]]MASTER/1[[:space:]]CUATRI/TRATAMIENTO[[:space:]]DATOS/Reto/data_train.csv filter=lfs diff=lfs merge=lfs -text
-../Escritorio/master/1[[:space:]]MASTER/TRATAMIENTO[[:space:]]DATOS/data_train.csv filter=lfs diff=lfs merge=lfs -text
